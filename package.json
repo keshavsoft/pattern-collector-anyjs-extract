@@ -1,7 +1,7 @@
 {
   "name": "pattern-collector-anyjs-extract",
   "version": "1.2.3",
-  "description": "A high-performance pattern collector and ESM import statement analyzer.",
+  "description": "A high-performance pattern extractor that scans text files and extracts structured group details from matches.",
   "keywords": [
     "pattern",
     "regex",
