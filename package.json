@@ -1,0 +1,36 @@
+{
+  "name": "pattern-collector-anyjs-extract",
+  "version": "1.2.1",
+  "description": "A high-performance pattern collector and ESM import statement analyzer.",
+  "keywords": [
+    "pattern",
+    "regex",
+    "parser",
+    "import",
+    "analyzer",
+    "esm",
+    "extractor"
+  ],
+  "dependencies": {
+    "pattern-collector-anyjs-matches": "^1.2.1",
+    "pattern-collector-base-regex": "^1.2.1"
+  },
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "bin/",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/keshavsoft/pattern-collector-anyjs-extract#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshavsoft/pattern-collector-anyjs-extract"
+  },
+  "bugs": {
+    "url": "https://github.com/keshavsoft/pattern-collector-anyjs-extract/issues"
+  }
+}
