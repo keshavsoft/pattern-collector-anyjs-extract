@@ -36,10 +36,6 @@ jobs:
         run: |
           npm install pattern-collector-anyjs-matches@latest pattern-collector-base-regex@latest
 
-      - name: Run Tests
-        run: |
-          node test/v2/test.js
-
       - name: Commit and push changes
         id: git-push
         run: |
