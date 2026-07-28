@@ -1,6 +1,6 @@
 {
   "name": "pattern-collector-anyjs-extract",
-  "version": "1.4.6",
+  "version": "1.5.1",
   "description": "A high-performance pattern extractor that scans text files and extracts structured group details from matches.",
   "keywords": [
     "pattern",
@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "pattern-collector-anyjs-matches": "^1.3.8",
-    "pattern-collector-base-regex": "^1.3.2"
+    "pattern-collector-base-regex-n-parts": "^1.6.4"
   },
   "type": "module",
   "exports": {
